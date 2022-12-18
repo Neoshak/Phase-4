@@ -1,0 +1,9 @@
+Neoshak|password|Admin
+Neoshak|CIs621|Admin
+James Bond|Sammyson20|User
+SallykS|Password1|Admin
+MMDavison|Abc123|User
+Bcaldwell|smallFries|User
+Neoshak|123456|Admin
+Sarahk|20222023|User
+Neoshak|201993|Admin
